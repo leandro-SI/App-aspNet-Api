@@ -1,1 +1,3 @@
-﻿<StaticWebAssets Version="1.0" />
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Crud-MVC" Path="C:\Users\LeandroCesar\Desktop\Estudos.Net\ParaGit\App-aspNet-Api\Crud-MVC\Crud-MVC\wwwroot\" />
+</StaticWebAssets>
